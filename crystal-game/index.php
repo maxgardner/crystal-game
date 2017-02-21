@@ -1,1 +1,1 @@
-<?php include_once("crystalgame.html") ?>;
+<?php include_once("crystalgame.html")?>
